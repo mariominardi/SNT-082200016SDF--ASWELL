@@ -1,0 +1,9 @@
+"RYU REST Interface Manual" is © 2022 University of Luxembourg
+and is distributed under the Apache License version 2.0 (see LICENSE.txt)
+
+Authors:
+  	
+	Mario Minardi - mario.minardi@uni.lu
+
+
+Copyright (C) 2022 University of Luxembourg
