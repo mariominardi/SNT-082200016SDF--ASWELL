@@ -1,14 +1,13 @@
-/*******************************************************************************
- * @author  Mario Minardi
- * @Email mariominardi96@gmail.com
- * @file  POST_request_sender.m
- * @Type  Matlab
- * @brief TBC
- * @date  08/25/2022 (dd/mm/yy)
- *******************************************************************************/
+%/*******************************************************************************
+% * @author  Mario Minardi
+% * @Email mariominardi96@gmail.com
+% * @file  POST_request_sender.m
+% * @Type  Matlab
+% * @brief TBC
+% * @date  08/25/2022 (dd/mm/yy)
+% *******************************************************************************/
 
 
-%MATLAB
 function [] = POST_request_sender(topology_from_RYU, link_mapping, lifetime, switches, number_of_VN) 
 
 import matlab.net.http.RequestMessage
