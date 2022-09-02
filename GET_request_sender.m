@@ -34,6 +34,7 @@ for i = 1 : number_of_links
        first_switch = hex2dec(topology(i).src.dpid);
        second_switch = hex2dec(topology(i).dst.dpid);
        matrix_sub(first_switch, second_switch) = 1;
+       matrix_sub(second_switch, first_switch) = 1;
     
 end
 
